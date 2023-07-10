@@ -1,6 +1,6 @@
 <h1 style="color: #AAD100;"> 🧑🏼‍💻 Daniel Kumlin </h1>
 
-![github_cover_banner](https://github.com/RestartDK/RestartDK/assets/58006998/299aa593-b22e-4500-9604-48712ff57ae7)
+![github cover banner](https://github.com/RestartDK/RestartDK/assets/58006998/d752c285-2489-43c2-8c42-7bfe66dab2fe)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a passionate entrepreneur and full-stack software developer. I want to build products that can make people's lives easier. Programming has always been a passion of mine as it gave me the creativity to apply the ideas I have floating around in my head. That's why it empowers me to think of problems to solve with software. I strive to learn every day and be just a little bit better than yesterday :)
