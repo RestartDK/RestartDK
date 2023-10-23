@@ -98,17 +98,3 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RestartDK&layout=compact&show_icons=true&theme=merko&border_radius=20)
 </div>
 <!--  End Stats Cards -->
-
----
-<!-- Begin Footer -->
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<div class="footer" align="center" style="margin:15px;">
-    <a href="www.linkedin.com/in/daniel-kumlin-154211238" target="_blank">
-        <img  style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40px"/>
-    </a>
-    <a href="mailto:thenoobyzombie@gmail.com" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://github.com/RestartDK/RestartDK/assets/58006998/4fe80cde-65ef-48e3-a3f0-f275e5c686c3" alt="gmail" width="40px"/>
-    </a>
-</div>
-<!-- End Footer -->
