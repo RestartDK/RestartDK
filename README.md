@@ -1,5 +1,6 @@
 <h1 style="color: #AAD100;"> 🧑🏼‍💻 Daniel Kumlin </h1>
-![Daniel Kumlin Medium Banner](https://github.com/RestartDK/RestartDK/assets/58006998/6b42f794-31c4-4b8d-8035-d431f7379ace)
+
+![banner](https://github.com/RestartDK/RestartDK/assets/58006998/b64b04d7-0222-42fc-a2d4-ce8745cd5a70)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I love building products that can bring meaning for people. I have been primarily working on developing full-stack projects in web development. I also have experience in working alot with python for data science. I always strive to learn more everyday and bring ideas to reality.
