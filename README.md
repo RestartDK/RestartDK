@@ -7,7 +7,7 @@
 <br>
 <br>
 <div align="center">
-    <a href="mailto:dkumlin@me.com" target="_blank">
+    <a href="mailto:danielkumlinwork@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="www.linkedin.com/in/daniel-kumlin-154211238" target="_blank">
@@ -16,6 +16,16 @@
 </div>
 </p>    
 <br>
+
+<!-- Current status -->
+
+<h2 style="color: #AAD100">👷‍♂️ Currently Building</h2>
+<br>   
+<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
+    I am building my micro SaaS called <a href="https://www.sunreach.dev">Sunreach</a> ☀️. It helps small solar business owners with organice marketing by converting solar articles into engaging linkedin posts.
+<br>
+<br>
+
 <!-- Languages and Tools -->
 
 <h2 style="color: #AAD100">⚙️ My Favourite Languages / Tools</h2>
