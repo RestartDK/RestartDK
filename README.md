@@ -22,7 +22,7 @@
 <h2 style="color: #AAD100">👷‍♂️ Currently Building</h2>
 <br>   
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am building my micro SaaS called <a href="https://www.sunreach.dev">Sunreach</a> ☀️. It helps small solar business owners with organice marketing by converting solar articles into engaging linkedin posts.
+    I am building and leading <a href="https://www.sunship.solar">Sunship</a> ☀️ a new tool which helps utility-scale solar developers take on more projects and streamline their workflow 🚀.
 <br>
 <br>
 
