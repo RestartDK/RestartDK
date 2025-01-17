@@ -60,9 +60,4 @@
 
 ![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RestartDK&theme=merko)
 
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RestartDK&show_icons=true&theme=algolia&border_radius=20) -->
-    
-<!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RestartDK&show_icons=true&theme=merko)
-</div>
 <!--  End Stats Cards -->
